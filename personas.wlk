@@ -13,6 +13,6 @@ object luisa {
 }
 
 object juan {
-  method leGusta(objeto) = ! objeto.color().esFuerte() or 
-    (objeto.peso() >= 1200 && objeto.peso() <= 1800)
+  method leGusta(objeto) = not objeto.color().esFuerte() or 
+    (objeto.peso() >= 1200 and objeto.peso() <= 1800)
 }
