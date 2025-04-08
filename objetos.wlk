@@ -73,7 +73,7 @@ object banquito {
 
   method material() = madera
 
-  method peso() = 8000
+  method peso() = 1700
 
   method cambiarColor(nuevoColor){
     color = nuevoColor
