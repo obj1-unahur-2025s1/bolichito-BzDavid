@@ -16,6 +16,10 @@ object verde {
   method esFuerte() = true
 }
 
+object naranja {
+  method esFuerte() = true
+}
+
 //Materiales
 
 object cobre {

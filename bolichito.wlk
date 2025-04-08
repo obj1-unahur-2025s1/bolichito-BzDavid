@@ -1,5 +1,6 @@
 import bolichito-BzDavid.personas.*
 import bolichito-BzDavid.objetos.*
+import bolichito-BzDavid.atributos.*
 
 object bolichito {
     var objetoEnVidriera = 'No hay objeto'
